@@ -48,5 +48,7 @@ Developed a Zero-Knowledge E-Voting System combining cryptographic anonymity wit
 
 ## 📫 Connect with Me
 
+* 📱 Phone: +60123381513
+* 📍 Location: Setapak, Kuala Lumpur
 * **Email:** [xunyihuang2@gmail.com](mailto:xunyihuang2@gmail.com)
 * **LinkedIn:** [www.linkedin.com/in/shun-yee-ong-3988113ab/](https://www.linkedin.com/in/shun-yee-ong-3988113ab/)
