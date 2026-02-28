@@ -32,9 +32,9 @@ Developed a Zero-Knowledge E-Voting System combining cryptographic anonymity wit
 ## 🛠️ Technical Skills
 
 ### 🌐 Networking
-Networking: TCP/IP,OSI model, DNS, DHCP, Subnetting
-Switching & Routing: VLANs, Cisco, Spanning Tree Protocol
-Network Security: Access Control Lists, AAA Protocols, Basic Firewall Concepts
+* Networking: TCP/IP,OSI model, DNS, DHCP, Subnetting
+* Switching & Routing: VLANs, Cisco, Spanning Tree Protocol
+* Network Security: Access Control Lists, AAA Protocols, Basic Firewall Concepts
 
   
 ### 💻 Software Development
