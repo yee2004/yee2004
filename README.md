@@ -15,10 +15,10 @@ I'm a motivated **Bachelor of Information Security (Honours) student at TUNKU AB
 ### 🏆 Final Year Project: Zero-Knowledge E-voting System
 Developed a Zero-Knowledge E-Voting System combining cryptographic anonymity with verifiable election integrity:
 
-*🔒 Implemented Hashed Pseudonymity (SHA-256) and RSA-signed JWTs to mathematically guarantee voter eligibility without exposing plaintext identities.
-*💻 Built an interactive voter dashboard and admin portal, integrating WebAssembly (WASM) for lightning-fast, client-side proof generation.
-*✅ Engineered a zk-STARK verification engine (winterfell) and Deterministic Nullifiers to strictly prevent double-voting and ensure computational integrity.
-*🌐 Designed a Microservices Architecture separating the Identity Provider (IdP) from the Voting Verifier to establish a flawless zero-knowledge trust boundary.
+* 🔒 Implemented Hashed Pseudonymity (SHA-256) and RSA-signed JWTs to mathematically guarantee voter eligibility without exposing plaintext identities.
+* 💻 Built an interactive voter dashboard and admin portal, integrating WebAssembly (WASM) for lightning-fast, client-side proof generation.
+* ✅ Engineered a zk-STARK verification engine (winterfell) and Deterministic Nullifiers to strictly prevent double-voting and ensure computational integrity.
+* 🌐 Designed a Microservices Architecture separating the Identity Provider (IdP) from the Voting Verifier to establish a flawless zero-knowledge trust boundary.
 
 ### 🥈 Competition: China Mobile "Wutong Cup" Regional Finals
 **Award:** Second Place - Digital Intelligence Innovation Competition International Region "AI+Security" Track
